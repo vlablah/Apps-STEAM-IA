@@ -1,0 +1,5 @@
+{
+  "name": "Social Media Brain Chemistry Simulator",
+  "description": "An interactive simulator to explore how social media use affects cognitive and emotional faculties by manipulating variables like usage time and notification frequency, and observing their effects on key hormones (dopamine, cortisol) and sleep/concentration patterns.",
+  "requestFramePermissions": []
+}
